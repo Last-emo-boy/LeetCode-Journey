@@ -1,2 +1,16 @@
-# LeetCode-Journey
- This repository contains my solutions to various LeetCode problems. LeetCode is a platform that offers a collection of coding challenges, ranging from easy to hard, to help programmers enhance their algorithmic skills. In this repository, you will find well-commented and efficient solutions to a wide range of LeetCode problems.
+# LeetCode 解题记录
+
+本仓库包含我在 LeetCode 上解决的各种问题的解题记录。LeetCode 是一个提供多个编程题目的平台，帮助程序员提升算法和问题解决能力。
+
+## 目录结构
+
+解题记录按照题目编号进行组织，每个题目都有自己的文件夹。在每个文件夹中，你会找到解题代码文件以及一个包含详细解题说明的 README 文件。解题代码使用 Python 实现，并包含注释，解释了解题思路和算法。
+
+## 使用方法
+
+你可以直接浏览各个问题文件夹中的解题代码和相关源文件。每个解题代码文件都是独立的，可以单独执行。你可以自由地浏览、学习并根据自己的需求修改代码。
+
+要运行解题代码，你可以使用 Python 解释器执行 Python 文件，或在你喜欢的 IDE 或文本编辑器中运行代码。
+
+```shell
+python solution.py
