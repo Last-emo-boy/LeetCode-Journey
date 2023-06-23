@@ -9,4 +9,4 @@ class Solution:
             else:
                 # 否则，以字符串的长度作为值并更新最大值
                 max_val = max(max_val, len(s))
-        return max_val。
+        return max_val
